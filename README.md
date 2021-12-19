@@ -1,4 +1,3 @@
-# Interview Topics
 
 <br/>
 
